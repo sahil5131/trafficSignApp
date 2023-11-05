@@ -21,8 +21,8 @@ The CNN model used in this project was designed for optimal traffic sign recogni
 
 **Screenshots:**
 ![select file](https://github.com/sahil5131/trafficSignApp/blob/master/SS1.png)
-![file selected](https://github.com/sahil5131/trafficSignApp/blob/master/SS1.png)
-![text shown on predicted image](https://github.com/sahil5131/trafficSignApp/blob/master/SS1.png)
+![file selected](https://github.com/sahil5131/trafficSignApp/blob/master/SS2.png)
+![text shown on predicted image](https://github.com/sahil5131/trafficSignApp/blob/master/SS3.png)
 
 
 
