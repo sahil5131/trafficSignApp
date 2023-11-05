@@ -23,8 +23,9 @@ input[type="file"] {
 
 .upload-label{
     display: inline-block;
+    border-radius: 10px;
     padding: 12px 30px;
-    background: #39D2B4;
+    background: #4CAF50;
     color: #fff;
     font-size: 1em;
     transition: all .4s;
@@ -48,4 +49,20 @@ input[type="file"] {
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    text-aling: center;
+}
+
+#content{
+    display: flex;
+    justify-content: center;
+    aling-item: center;
+}
+
+#heading1{
+    margin-right:20px;
 }

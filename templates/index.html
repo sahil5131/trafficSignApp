@@ -1,6 +1,6 @@
 {% extends "base.html" %} {% block content %}
 
-<h2>Upload Traffic Signs🚦</h2>
+<h2 id="heading1">Upload Traffic Signs Image: </h2>
 <style> .footer {
    position: fixed;
    left: 0;
@@ -17,9 +17,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <form id="upload-file" method="post" enctype="multipart/form-data">
         <label for="imageUpload" class="upload-label">
-            Upload...
+            Select File
         </label>
-        <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg">
+        <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg" >
     </form>
 
     <div class="image-section" style="display:none;">
