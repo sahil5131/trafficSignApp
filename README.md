@@ -1,7 +1,5 @@
 # Traffic Sign Recognition using CNN
 
-![Traffic Sign Recognition Demo]
-
 **Overview:**
 This project focuses on implementing a Traffic Sign Recognition system using Convolutional Neural Networks (CNNs). The system is designed to detect and classify various types of traffic signs in images. It's a crucial component of advanced driver assistance systems (ADAS) and contributes to road safety and driver convenience.
 
