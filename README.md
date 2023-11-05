@@ -18,8 +18,11 @@ Dataset link: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-
 **Model Architecture:**
 The CNN model used in this project was designed for optimal traffic sign recognition, with convolutional layers, pooling layers, and fully connected layers. The model was trained and evaluated on a separate testing dataset.
 
-#Screenshots:
 
+**Screenshots:**
+![select file](https://github.com/sahil5131/trafficSignApp/blob/master/SS1.png)
+![file selected](https://github.com/sahil5131/trafficSignApp/blob/master/SS1.png)
+![text shown on predicted image](https://github.com/sahil5131/trafficSignApp/blob/master/SS1.png)
 
 
 
